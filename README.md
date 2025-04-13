@@ -1,21 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jhonmark</h1>
+
 <h3 align="center">A passionate Frontend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonmark&label=Profile%20views&color=0e75b6&style=flat" alt="jhonmark" /> </p>
 
-- 🔭 I’m currently working on **Library System**
-
-- 🌱 I’m currently learning **Java, Js, c**
-
-- 👨‍💻 All of my projects are available at [#link](#link)
-
-- 📝 I regularly write articles on [#link](#link)
-
-- 💬 Ask me about **nothing**
-
 - 📫 How to reach me **paynojhonmark@gmail.com**
-
-- 📄 Know about my experiences [#link](#link)
 
 - ⚡ Fun fact **I have a dig bick**
 
