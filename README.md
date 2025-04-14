@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="170" margin-right="30px" src="https://media.tenor.com/jwzIuTSGjNwAAAAM/gojo-smile-gojo.gif"  />
+<img align="right" height="170" margin-right="60px" src="https://media.tenor.com/jwzIuTSGjNwAAAAM/gojo-smile-gojo.gif"  />
 
 ###
 
