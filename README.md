@@ -56,7 +56,10 @@
 
 ###
 
-<img align="right" height="151" src="https://media.tenor.com/jwzIuTSGjNwAAAAM/gojo-smile-gojo.gif"  />
+
+
+
+<img align="center" height="151" src="https://media.tenor.com/jwzIuTSGjNwAAAAM/gojo-smile-gojo.gif"  />
 
 ###
 
