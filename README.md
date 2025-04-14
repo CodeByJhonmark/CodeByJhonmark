@@ -1,14 +1,14 @@
 <h2 align="left">Hi 👋! My name is Jhonmark and I'm a Frontend from Philippines</h2>
 
-
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jhonmark&locale=en&mode=daily&theme=darcula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonmark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="151" src="https://media.tenor.com/jwzIuTSGjNwAAAAM/gojo-smile-gojo.gif"  />
 
@@ -53,13 +53,20 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonmark/jhonmark/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonmark/jhonmark/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jhonmark/jhonmark/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-
-
-
-<img align="center" height="151" src="https://media.tenor.com/jwzIuTSGjNwAAAAM/gojo-smile-gojo.gif"  />
+<div align="center">
+  <img height="200" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f5fa1cd3af4a159a1bd1f6f82abbde6e-1677567361/mystryus/create-gif-animation-2d-anime-style.gif"  />
+</div>
 
 ###
-
