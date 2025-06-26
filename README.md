@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="170" margin-right="60px" src="https://media.tenor.com/jwzIuTSGjNwAAAAM/gojo-smile-gojo.gif"  />
+<img align="right" height="170" margin-right="60px" src="https://media1.tenor.com/m/9TZStIRmpfYAAAAd/jhonmarkpayno.gif"  />
 
 ###
 
@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/9TZStIRmpfYAAAAd/jhonmarkpayno.gif"  />
+  <img height="200" src=""  />
 </div>
 
 ###
